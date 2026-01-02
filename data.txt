@@ -1,3 +1,4 @@
 Name: Marcos 
 Age: 38
 Favorite Color: Red
+Hobbies: Cineam, Photography
